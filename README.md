@@ -1,5 +1,5 @@
 # Book Purchase App – Wireframe Overview
-link: https://www.figma.com/design/XIwtVTohnSe4CxzLIzbDDD/Untitled?node-id=0-1&t=L7e0LCmFN5tTR88I-1
+link: [https://www.figma.com/design/XIwtVTohnSe4CxzLIzbDDD/Untitled?node-id=0-1&t=L7e0LCmFN5tTR88I-1](https://www.figma.com/design/XIwtVTohnSe4CxzLIzbDDD/Untitled?node-id=0-1&t=9PyszMDMywqZ92US-1)
 
 This wireframe outlines a simple end-to-end flow for discovering, viewing, and purchasing books. It’s structured around four core screens that cover the full user journey: **browse → view details → checkout → confirmation**.
 
